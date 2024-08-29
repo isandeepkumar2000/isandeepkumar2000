@@ -1,4 +1,4 @@
-![logo](https://github.com/isandeepkumar2000/isandeeepkumar2000/blob/main/Blue%20Modern%20Company%20Slogan%20LinkedIn%20Banner.gif)
+![logo](https://github.com/isandeepkumar2000/isandeepkumar2000/blob/main/Blue%20Modern%20Company%20Slogan%20LinkedIn%20Banner.gif)
 
 <h1 align="center"><b>Hi 👋, I'm Sandeep Kumar</b></h1>
 <h3 align="center"><b>A passionate Software Developer Engineer from India</b></h3>
